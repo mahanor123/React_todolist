@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  color:yellow; 
+  background: rgb(196, 22, 158);
+}
+
+body{
+  background-image: linear-gradient(to right,yellow,orange )
+}
+
+.input{
+  height: 30px;
+  margin: 5px;
+}
+
+.addtodo{
+  margin-top: 40px;
+  height: 30px;
+  width: 60px
+}
+
+
